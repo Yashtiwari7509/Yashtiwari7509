@@ -36,14 +36,6 @@
 
 ---
 
-### 🌟 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashtiwari7509&show_icons=true&theme=gruvbox" alt="Yash's GitHub Stats" />
-</p>
-
----
-
 ### 📫 Let’s Connect!
 
 <p align="center">
